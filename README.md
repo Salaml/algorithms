@@ -1,2 +1,4 @@
-# algorithms
-code from exercises in module I832 Algorithms of HTW Dresden
+# I832 - Algorithms
+code from exercises in module Algorithms of HTW Dresden
+
+https://apps.htw-dresden.de/modulux/modul/4198
