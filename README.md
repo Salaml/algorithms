@@ -7,19 +7,19 @@ TODO
 
 ## [Binary search tree](./binary-search-tree.sc)
 
-Implementation of a binary search tree
+Implementation of a [binary search tree](https://en.wikipedia.org/wiki/Binary_search_tree)
 
 ## [Longest common subsequence](./longest-common-subsequence.sc)
 
-TODO
+Implementation to find the [longest common subsequence](https://en.wikipedia.org/wiki/Longest_common_subsequence_problem) using [dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming)
 
 ## [Travelling salesman problem](./tsp.sc)
 
-Implementation of the travelling salesman problem using dynamic programming
+Implementation of the [travelling salesman problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem) using [dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming)
 
 ## [Viterbi algorithm](./tsp.sc)
 
-Implementation of the Viterbi algorithm for hidden Markov models using dynamic programming
+Implementation of the [Viterbi algorithm](https://en.wikipedia.org/wiki/Viterbi_algorithm) for [hidden Markov models](https://en.wikipedia.org/wiki/Hidden_Markov_model) using [dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming)
 
 ## License
 
@@ -35,19 +35,19 @@ TODO
 
 ## [Binärer Suchbaum](./binary-search-tree.sc)
 
-Implementierung eines binären Suchbaums
+Implementierung eines [binären Suchbaums](https://de.wikipedia.org/wiki/Bin%C3%A4rer_Suchbaum)
 
 ## [Längste gemeinsame Teilfolge](./longest-common-subsequence.sc)
 
-TODO
+Implementierung zum Finden der längsten gemeinsamen Teilfolge unter Nutzung von [dynamischer Programmierung](https://de.wikipedia.org/wiki/Dynamische_Programmierung)
 
 ## [Travelling salesman problem / Problem des Handlungsreisenden](./tsp.sc)
 
-Implementierung des Problems des Handlungsreisenden unter Nutzung von dynamischer Programmierung
+Implementierung des [Problems des Handlungsreisenden](https://de.wikipedia.org/wiki/Problem_des_Handlungsreisenden) unter Nutzung von [dynamischer Programmierung](https://de.wikipedia.org/wiki/Dynamische_Programmierung)
 
 ## [Viterbi-Algorithmus](./tsp.sc)
 
-Implementierung des Viterbi-Algorithmus für Hidden-Markov-Modelle unter Nutzung von dynamischer Programmierung
+Implementierung des [Viterbi-Algorithmus](https://de.wikipedia.org/wiki/Viterbi-Algorithmus) für [Hidden-Markov-Modelle](https://de.wikipedia.org/wiki/Hidden_Markov_Model) unter Nutzung von [dynamischer Programmierung](https://de.wikipedia.org/wiki/Dynamische_Programmierung)
 
 ## Lizenz
 
